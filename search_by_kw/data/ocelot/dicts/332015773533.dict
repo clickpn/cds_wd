@@ -1,0 +1,94 @@
+(dp1
+S'title'
+p2
+Vaire ocelot cataraft
+p3
+sS'url'
+p4
+S'http://www.ebay.com/itm/AIRE-Ocelot-Cataraft-/332015773533?var=&hash=item4d4daea75d:i:332015773533'
+p5
+sS'price'
+p6
+VUS $2,499.00
+p7
+sS'seller'
+p8
+(dp9
+g4
+Vhttp://www.ebay.com/usr/outdoorplay_sports?_trksid=p2047675.l2559
+p10
+sS'name'
+p11
+V outdoorplay_sports
+p12
+ssS'description_links'
+p13
+(lp14
+Vhttp://vi.vipr.ebaydesc.com/ws/eBayISAPI.dll?ViewItemDescV4&item=332015773533&t=0&tid=10&category=87090&seller=outdoorplay_sports&excSoj=1&excTrk=1&lsite=0&ittenable=false&domain=ebay.com&descgauge=1
+p15
+asS'images'
+p16
+(lp17
+(dp18
+S'maxImageUrl'
+p19
+Vhttps://system.netsuite.com/core/media/media.nl?id=36727&c=436469&h=764e213f25871873b7bc
+p20
+sS'displayImgUrl'
+p21
+Vhttps://system.netsuite.com/core/media/media.nl?id=36727&c=436469&h=764e213f25871873b7bc
+p22
+sa(dp23
+g19
+Vhttps://system.netsuite.com/core/media/media.nl?id=36731&c=436469&h=ba6de793a82fc8fad9ab
+p24
+sg21
+Vhttps://system.netsuite.com/core/media/media.nl?id=36731&c=436469&h=ba6de793a82fc8fad9ab
+p25
+sa(dp26
+g19
+Vhttps://system.netsuite.com/core/media/media.nl?id=36734&c=436469&h=75ed6bd9ee973c98504d
+p27
+sg21
+Vhttps://system.netsuite.com/core/media/media.nl?id=36734&c=436469&h=75ed6bd9ee973c98504d
+p28
+sa(dp29
+g19
+Vhttps://system.netsuite.com/core/media/media.nl?id=36737&c=436469&h=ba3f422a86224bcb481e
+p30
+sg21
+Vhttps://system.netsuite.com/core/media/media.nl?id=36737&c=436469&h=ba3f422a86224bcb481e
+p31
+sasS'shipping_info'
+p32
+(dp33
+S'item_location'
+p34
+(lp35
+V\u000aHood River, Oregon, United States
+p36
+asS'delivery'
+p37
+(lp38
+VEstimated between Tue. Jun. 13 and Mon. Jun. 26
+p39
+aVUse Expedited Shipping to get it by Jun. 15\u000a\u000a help icon for Estimated delivery date - opens a layer\u000a\u000a\u000aEstimated delivery dates  - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptance and will depend on shipping service selected and receipt of cleared payment - opens in a new window or tab. Delivery times may vary, especially during peak periods.
+p40
+aVEstimated between Tue. Jun. 13 and Mon. Jun. 26
+p41
+aVEstimated between Tue. Jun. 13 and Tue. Jun. 20
+p42
+aVEstimated between Thu. Jun. 15 and Fri. Jun. 16
+p43
+aVEstimated between Wed. Jun. 14 and Thu. Jun. 15
+p44
+asS'posts_to'
+p45
+(lp46
+VUnited States, Canada, Australia\u000a | \u000aSee exclusions
+p47
+assS'id'
+p48
+S'332015773533'
+p49
+s.
